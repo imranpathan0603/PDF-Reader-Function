@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "alliance_product_ai_function",
+      "alliance_product_ai_trigger",
+      "alliance_product_ai_worker",
+      "alliance_product_ai_processor"
+    ],
+    "env_variables": {},
+    "ignore": [],
+    "source": "functions"
+  }
+}

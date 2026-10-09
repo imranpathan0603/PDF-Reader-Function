@@ -1,0 +1,11 @@
+{
+	"name": "alliance_product_ai_worker",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "isha.sharma@wootz.work",
+	"dependencies": {
+	  "@zcatalyst/auth": "latest",
+	  "@zcatalyst/cache": "latest",
+	  "zcatalyst-sdk-node": "3.4.0"
+	}
+  }

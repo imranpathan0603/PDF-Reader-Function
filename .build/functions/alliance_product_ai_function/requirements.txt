@@ -1,0 +1,7 @@
+openai>=1.0.0
+zcatalyst-sdk>=1.4.0
+requests
+python-dotenv
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+Flask>=3.0.0

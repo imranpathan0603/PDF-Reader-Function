@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "alliance_product_ai_worker",
+		"stack": "node20",
+		"type": "job",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

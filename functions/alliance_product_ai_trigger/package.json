@@ -1,0 +1,12 @@
+{
+	"name": "alliance_product_ai_trigger",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "isha.sharma@wootz.work",
+	"dependencies": {
+		"@zcatalyst/auth": "latest",
+		"@zcatalyst/cache": "latest",
+		"busboy": "^1.6.0",
+		"zcatalyst-sdk-node": "^3.4.0"
+	}
+}

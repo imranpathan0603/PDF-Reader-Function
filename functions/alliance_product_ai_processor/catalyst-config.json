@@ -1,0 +1,16 @@
+{
+    "deployment": {
+        "name": "alliance_product_ai_processor",
+        "stack": "python_3_12",
+        "type": "job",
+        "env_variables": {
+            "CREATOR_OWNER": "isha.sharma_wootz",
+            "CREATOR_APP": "wootz-work-erp",
+            "CREATOR_ITEM_REPORT": "All_Item_Masters",
+            "CREATOR_API_URL": "https://www.zohoapis.in"
+        }
+    },
+    "execution": {
+        "main": "main.py"
+    }
+}

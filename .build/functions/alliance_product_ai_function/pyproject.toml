@@ -1,0 +1,15 @@
+[project]
+name = "zoho-catalyst"
+version = "0.1.0"
+description = "Alliance Growth Product AI Quotation Parser"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=1.0.0",
+    "pydantic>=2.0.0",
+    "flask>=3.0.0",
+    "zcatalyst-sdk>=1.4.0",
+    "requests>=2.31.0",
+    "PyMuPDF>=1.23.0",
+    "Pillow>=10.0.0"
+]
